@@ -8,3 +8,10 @@ I found that idea fascinating and decided to try implementing my own version.
 
 ### How to Run
 You should just be able to open the .ipynb file in Jupyter notebook. You will need to install the pygame, pygame-menu, and numpy packages if you have not already.
+
+### Resources and Libraries
+* [Jupyter Notebook](https://jupyter.org/)
+* [Pygame](https://www.pygame.org/)
+* [numpy](https://numpy.org/)
+* Khan Academy - [elastic collisions video](https://www.khanacademy.org/science/physics/linear-momentum/elastic-and-inelastic-collisions/v/how-to-use-the-shortcut-for-solving-elastic-collisions)
+                
