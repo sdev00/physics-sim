@@ -14,3 +14,4 @@ You should just be able to open the .ipynb file in Jupyter notebook. You will ne
 * [Pygame](https://www.pygame.org/)
 * [numpy](https://numpy.org/)
 * Khan Academy - [elastic collisions video](https://www.khanacademy.org/science/physics/linear-momentum/elastic-and-inelastic-collisions/v/how-to-use-the-shortcut-for-solving-elastic-collisions)
+* [Shadow calculations](https://math.stackexchange.com/questions/861796/derive-formula-for-coordinates-of-internal-and-external-centers-of-similitude)
