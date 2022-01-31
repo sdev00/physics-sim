@@ -12,21 +12,24 @@ You should just be able to open the .ipynb file in Jupyter notebook. You will ne
 ### Controls
 #### Play
 * `L` = forward
-* `K/Space` = Pause
+* `K/Space` = pause/play
 * `J` = backward
 * `F` = fast-forward*
 * `S` = slow-motion*
 * `.` = step one frame forward**
 * `,` = step one frame backward**
+* `D` = toggle shadows***
 
 \* works for forward or backward \
-\** only works when paused
+\** only works when paused \
+\*** causes huge issues with framerate
 
 #### Create
-* Left click to place a normal-gravity ball
-* Right click to place a reverse-gravity ball
-* Middle click to place a no-gravity ball
-* Click a ball to delete it
+* Left click: place a normal-gravity ball
+* Right click: place a reverse-gravity ball
+* Middle click: place a no-gravity ball
+* Spacebar: place a light-source ball
+* Click an existing ball to delete it
 * `C` = clear board
 
 ### Notes
